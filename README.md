@@ -1,59 +1,59 @@
-<h1 align="center">Hi there, I'm jwzz693</h1>
+<h1 align="center">你好，我是 jwzz693</h1>
 
 <p align="center">
-  <b>Python 开发者 | 自动化爱好者 | 技术探索者</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1AB7EA&center=true&vCenter=true&width=435&lines=Python开发者;自动化爱好者;开源贡献者;终身学习者" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/jwzz693">
-    <img src="https://img.shields.io/github/followers/jwzz693?label=关注我&style=social" />
+    <img src="https://img.shields.io/github/followers/jwzz693?label=GitHub关注者&style=social" />
   </a>
+  <img src="https://img.shields.io/badge/代码-爱好-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/工具-自动化-green?style=flat-square&logo=automation" />
+  <img src="https://img.shields.io/badge/状态-持续学习中-yellow?style=flat-square&logo=bookstack" />
 </p>
 
 ---
 
-## 关于我
+## 🧰 我的技术工具箱
 
-你好，我是一个热爱编程与自动化的开发者，擅长使用 Python 构建高效的工具和脚本，乐于研究各种新技术，追求优雅与实用并存的解决方案。
-
-我喜欢做的事情包括：
-
-- 构建自己的实用工具
-- 利用 Python 实现自动化办公、数据处理与爬虫
-- 分享和学习开源项目
-- 写代码时喝咖啡、听音乐
-
----
-
-## 我的项目
-
-### [pyautohub](https://github.com/jwzz693/pyautohub)
-一个使用 Python 编写的桌面自动化工具集，支持鼠标、键盘控制等功能，适用于测试自动化和日常任务自动执行。
-
-### [yuanfang](https://github.com/jwzz693/yuanfang)
-敬请期待，项目开发中...
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
 
 ---
 
-## 技术栈
+## 📊 GitHub 数据统计
 
-- **语言**：Python、Shell、JavaScript（基础）
-- **工具**：PyAutoGUI、Tkinter、requests、Selenium
-- **平台**：Windows / Linux / MacOS
-
----
-
-## 联系我
-
-- GitHub: [github.com/jwzz693](https://github.com/jwzz693)
-- 邮箱（可选）：yourname@example.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jwzz693&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwzz693&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 致谢
+## ✨ 精选项目
 
-感谢每一位关注我、使用我项目的人，如果你觉得我的项目有帮助，欢迎 star 或 fork，我也欢迎任何建议和 PR！
+| 项目名称 | 简介 | 技术栈 | 链接 |
+|----------|------|--------|------|
+| `pyautohub` | 一个自动化控制工具集，简洁、稳定、强大 | Python, PyAutoGUI | [查看项目](https://github.com/jwzz693/pyautohub) |
+| `yuanfang` | 源代码分析 + 未公开（Coming Soon） | Python | [项目入口](https://github.com/jwzz693/yuanfang) |
 
 ---
 
-> “愿你我在技术的海洋中，乘风破浪，终有所成。”# yuanfang
+## 🧠 每日一语
+
+> “**代码即思维，技术即创造。**”
+
+---
+
+## 📫 联系方式
+
+- GitHub: [@jwzz693](https://github.com/jwzz693)
+- 邮箱: _你可以在这里填写_
+
+---
